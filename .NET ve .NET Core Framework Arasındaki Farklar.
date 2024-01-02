@@ -1,0 +1,33 @@
+.NET Core
+Çapraz Platform Desteği: .NET Core, Windows, Linux ve macOS dahil olmak üzere çeşitli işletim sistemlerinde çalışabilir. Bu özellik, uygulamalarınızı farklı platformlarda kolayca dağıtmanıza ve
+çalıştırmanıza olanak tanır.
+
+Modülerlik ve Hafif Yapı: .NET Core, modüler bir yapıya sahiptir. Yalnızca ihtiyacınız olan NuGet paketlerini projenize dahil edebilirsiniz, bu da genel uygulama boyutunu azaltır ve performansı artırır.
+
+Mikro Hizmet Mimarisine Uygunluk: .NET Core'un hafif yapısı ve çapraz platform desteği, mikro hizmet mimarileri için idealdir. Bu, modern uygulama geliştirmede önemli bir avantajdır.
+
+Yüksek Performans: .NET Core, özellikle sunucu tarafı uygulamalarında .NET Framework'ten daha yüksek performans sunar. Bu, web API'leri ve web uygulamaları için önemlidir.
+
+Açık Kaynak ve Topluluk Desteği: .NET Core, açık kaynaklıdır ve güçlü bir topluluk desteğine sahiptir. Bu, sürekli gelişim ve geniş bir kaynak havuzu anlamına gelir.
+
+.NET Framework
+Windows'a Özgü: .NET Framework yalnızca Windows platformları için tasarlanmıştır. Bu, Windows özel API'leri ve işlevlerle derin entegrasyon sağlar.
+
+Eski Uygulama Desteği: .NET Framework, eski Windows uygulamaları için geniş destek sunar. Bu, mevcut uygulamaların sürdürülebilirliği ve bakımı için önemlidir.
+
+Kapsamlı API Seti: Yıllar içinde geliştirilen geniş API seti sayesinde, .NET Framework, özellikle kurumsal düzeydeki uygulamalar için kapsamlı çözümler sunar.
+
+Visual Studio Entegrasyonu: .NET Framework, Visual Studio ile sıkı bir entegrasyona sahiptir, bu da geliştirme sürecini kolaylaştırır ve hızlandırır.
+
+Yerleşik .NET Özellikleri: WPF (Windows Presentation Foundation) ve Windows Forms gibi yerleşik .NET özellikleri, .NET Framework ile daha iyi entegredir.
+
+Karşılaştırma ve Hangi Durumlarda Hangisi Tercih Edilmeli?
+Yeni Projeler için .NET Core: Eğer yeni bir proje üzerinde çalışıyorsanız ve çapraz platform desteği, yüksek performans veya mikro hizmet mimarisi önemliyse, .NET Core tercih edilmelidir.
+
+Mevcut .NET Framework Projeleri: Eğer mevcut bir .NET Framework tabanlı projeniz varsa ve bu projeyi güncellemek veya genişletmek istiyorsanız, .NET Framework ile devam etmek mantıklı olabilir.
+Özellikle uygulamanız Windows'a özgü özellikler veya API'ler kullanıyorsa.
+
+Platform Bağımsızlığı: Eğer uygulamanızın farklı işletim sistemlerinde çalışmasını istiyorsanız, .NET Core en iyi seçenektir.
+
+Performans ve Ölçeklenebilirlik: Yüksek performans ve ölçeklenebilirlik gerektiren durumlarda, .NET Core avantajlıdır.
+
