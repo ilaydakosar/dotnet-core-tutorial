@@ -1,0 +1,26 @@
+.NET Core ve serverless mimari, modern yazılım geliştirme dünyasında önemli kavramlardır. Bu iki teknolojiyi birleştirmek, uygulamaları daha esnek, ölçeklenebilir ve maliyet etkin bir şekilde geliştirmek 
+için güçlü bir yol sunar. Şimdi, bu kavramları teorik olarak ele alalım:
+
+.NET Core Nedir?
+.NET Core, Microsoft tarafından geliştirilen açık kaynak bir yazılım geliştirme platformudur. .NET Framework'ün hafif ve modüler bir sürümü olarak tasarlanmıştır. Windows, macOS ve Linux dahil olmak 
+üzere çeşitli işletim sistemlerinde çalışabilen uygulamalar geliştirmek için kullanılır. .NET Core, yüksek performanslı web uygulamaları, mikro hizmetler, konsol uygulamaları ve daha fazlasını geliştirmek
+için geniş bir araç ve kütüphane seti sunar.
+
+Serverless Mimari Nedir?
+Serverless mimari, geliştiricilerin sunucu yönetimi ve kapasite planlaması gibi altyapı sorunlarıyla uğraşmadan uygulamalarını geliştirebilecekleri bir bulut bilişim modelidir. Bu model, kodun yalnızca
+gerekli olduğunda çalıştırılmasına olanak tanır ve kullanımı temel alan bir fiyatlandırma modeli sunar. Bu, özellikle değişken trafik paternlerine sahip uygulamalar için maliyet etkinliği ve ölçeklenebilirliği artırır.
+
+.NET Core ve Serverless Mimariyi Birleştirmek
+.NET Core ve serverless mimariyi birleştirmek, .NET Core'un sunduğu güçlü ve esnek geliştirme özellikleri ile serverless mimarinin ölçeklenebilirlik ve maliyet etkinliği avantajlarını bir araya getirir.
+Bu kombinasyon, özellikle bulut tabanlı uygulamalar ve mikro hizmetler için idealdir.
+
+Avantajları
+Ölçeklenebilirlik: Uygulamanız otomatik olarak yük altında ihtiyaç duyulan kaynaklarla ölçeklenir.
+Maliyet Etkinliği: Kaynak kullanımı üzerinden ödeme yaparsınız, bu da düşük trafikli dönemlerde maliyetleri azaltır.
+Esnek Geliştirme: .NET Core, çeşitli kütüphaneler ve araçlarla geliştiricilere esneklik sunar.
+Çapraz Platform Desteği: .NET Core'un çapraz platform desteği sayesinde, uygulamanızı farklı işletim sistemlerinde sorunsuz bir şekilde çalıştırabilirsiniz.
+
+Uygulama Senaryoları
+Web API'leri: Serverless fonksiyonlar, RESTful API'ler oluşturmak için idealdir.
+Arka Plan İşlemleri: Zamanlanmış görevler veya olaya dayalı tetiklemeler için kullanılabilir.
+Mikro Hizmetler: Her mikro hizmet, bağımsız olarak ölçeklendirilebilir ve yönetilebilir bir serverless fonksiyon olarak implemente edilebilir.
